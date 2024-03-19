@@ -53,9 +53,9 @@ permalink: /
 8. Data Structures and Algorithms
 
 ### Availability
-- Monday, Wednesday 5-9PM
-- Friday 3-8PM
-- Saturday, Sunday All Day
+- Friday All Day
+- Saturday All Day
+- Sunday 3-10PM
 
 #### Phone: +1 (925)-922-0016
 #### Email: kavin@sktutoring.org
