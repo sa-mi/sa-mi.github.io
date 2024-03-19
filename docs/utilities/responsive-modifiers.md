@@ -2,6 +2,8 @@
 layout: default
 title: Responsive Modifiers
 parent: Utilities
+nav_exclude: true
+
 ---
 
 # Responsive modifiers
