@@ -60,4 +60,4 @@ permalink: /
 #### Phone: +1 (925)-922-0016
 #### Email: <kavin@sktutoring.org>
 
-Done reading? Check out [Our Philosophy](https://sktutoring.org/docs/index-test/ 'What we think about tutoring').
+Done reading? Check out [Our Philosophy](https://sktutoring.org/docs/philosophy/ 'What we think about tutoring').
