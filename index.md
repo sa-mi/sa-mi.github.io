@@ -58,6 +58,6 @@ permalink: /
 - Sunday 3-10PM
 
 #### Phone: +1 (925)-922-0016
-#### Email: <kavin@sktutoring.org>
+#### Email: <gkavin@berkeley.edu>
 
 Done reading? Check out [Our Philosophy](https://sktutoring.org/docs/philosophy/ 'What we think about tutoring').
