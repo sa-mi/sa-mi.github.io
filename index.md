@@ -31,7 +31,7 @@ permalink: /
 - Saturday, Sunday All Day
 
 #### Phone: +1 (925)-964-7401
-#### Email: <sami@sktutoring.org>
+#### Email: <samisam@berkeley.edu>
 #### Linkedin <https://www.linkedin.com/in/samihalabieh/>
 
 # Kavin Glidden
