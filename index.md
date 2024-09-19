@@ -11,7 +11,7 @@ permalink: /
 <img src="sami.jpg" alt="Me" width="200" />
 
 
- I was born and raised in the Bay Area, and I am currently a third-year student @ UC Berkeley studying Applied Mathematics and Physics. I am passionate about science and am always curious to learn new things. My free time is usually spent racing or gaming.
+ I was born and raised in the Bay Area, and I am currently a third-year student at UC Berkeley studying Applied Mathematics. I am passionate about science and am always curious to learn new things. My free time is usually spent racing or gaming.
 
 
 
@@ -39,7 +39,7 @@ permalink: /
 <img src="kavin2.jpg" alt="Kavin" width="200" />
 
 
- I am a second-year student currently dual enrolled @ Diablo Valley College + UC Berkeley studying Computer Science and Electrical Engineering. I am also a tutor at Diablo Valley College for math and computer science. I am interested in algorithms and my free time is usually spent playing chess. 
+I am a second-year student at UC Berkeley studying Computer Science and Electrical Engineering. I am also a tutor UC Berkeley for math and computer science. My free time is usually spent playing chess or hiking.
 
 
 
