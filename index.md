@@ -31,7 +31,7 @@ permalink: /
 ### Availability
 - As of now, fully booked, inquire for potential openings
 
-#### Phone: +1 (925)-964-7401
+#### Phone: +1 (925)-964-740n where n is the first Fibonacci number
 #### Email: <samisam@berkeley.edu>
 #### Linkedin <https://www.linkedin.com/in/samihalabieh/>
 
@@ -60,7 +60,7 @@ permalink: /
 - Saturday All Day
 - Sunday 3-10PM
 
-#### Phone: +1 (925)-922-0016
+#### Phone: +1 (925)-922-001j where j is sqrt36
 #### Email: <gkavin@berkeley.edu>
 
 Done reading? Check out [Our Philosophy](https://sktutoring.org/docs/philosophy/ 'What we think about tutoring').
